@@ -35,8 +35,3 @@ erkennen kann, was bereits geschafft wurde.
 - JavaScript
 
 Erstellt von Nick N
-// store.js
-// An extremely simple external store
-import { writable } from 'svelte/store'
-export default writable(0)
-```
